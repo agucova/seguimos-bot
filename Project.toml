@@ -1,0 +1,7 @@
+name = "SeguimosBot"
+uuid = "490aa8f4-49b4-43ea-995f-28a867419bab"
+authors = ["Agustín Covarrubias <agucova@uc.cl>"]
+version = "0.1.0"
+
+[deps]
+Discord = "fcbf000d-02fd-53f1-af91-d952191673d3"
